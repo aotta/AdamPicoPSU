@@ -5,3 +5,5 @@ It use a 3 amp 12v regulated PSU for input, and a PICOPSU 20 pin for generate th
 
 ![ScreenShot](https://raw.githubusercontent.com/aotta/AdamPicoPSU/main/Pictures/picopsu1.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/AdamPicoPSU/main/Pictures/picopsu2.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/AdamPicoPSU/main/Pictures/picopsu3.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/AdamPicoPSU/main/Pictures/picopsu4.jpg)
