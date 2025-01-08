@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BUK7880-55A_CUX
+D 7A Id, 55V Vds, N-Channel TrenchMOS MOSFET, 80mOhm Ron, 12nC Qqd, -55 to 155 °C, SOT-223
+K Power MOSFET N-MOS
+F https://assets.nexperia.com/documents/data-sheet/BUK7880-55A.pdf
+$ENDCMP
+#
+$CMP Si4447ADY
+D 12V Vds, TrenchFET N-Channel Power MOSFET, SC-70-6
+K TrenchFET N-Channel Power MOSFET
+F http://www.vishay.com/docs/67189/si4447ad.pdf
+$ENDCMP
+#
+$CMP TPS5431DDA
+D 3A, Step Down Swift Converter, Adjustable Output Voltage, 5.5-23V Input Voltage, PowerSO-8
+K Step-Down DC-DC Switching Regulator
+F http://www.ti.com/lit/ds/symlink/tps5430.pdf
+$ENDCMP
+#
+$CMP TPS54531DDAR
+D 5A, Step Down Swift Converter, Adjustable Output Voltage, 5.5-36V Input Voltage, PowerSO-8
+K Step-Down DC-DC Switching Regulator
+F http://www.ti.com/lit/ds/symlink/tps54531.pdf
+$ENDCMP
+#
+$CMP TPS561201
+D 1A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-6
+K step-down dcdc voltage regulator
+F http://www.ti.com/lit/ds/symlink/tps561201.pdf
+$ENDCMP
+#
+#End Doc Library

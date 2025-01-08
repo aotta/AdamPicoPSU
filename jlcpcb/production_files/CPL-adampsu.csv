@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uf,CP_Radial_D6.3mm_P2.50mm,170.8226,-95.945,0.0,top
+D1,D_Schottky,D_DO-34_SOD68_P7.62mm_Horizontal,165.255,-100.9,90.0,top
+J1,Barrel_Jack_Switch,BarrelJack_Horizontal,128.005,-101.4025,180.0,bottom
+J3,DB9_Female,DSUB-9_Female_Vertical_P2.77x2.84mm_MountingHoles,181.33,-79.32,0.0,bottom
+J4,ATX-20,Molex_Mini-Fit_Jr_5569-20A2_2x10_P4.20mm_LargeHoles,140.955,-86.445,0.0,top
+S1,TL2230EEF140,SW_TL2230EEF140,193.83,-97.8325,0.0,top
+U1,L7905,TO-220-3_Vertical,181.79,-89.495,180.0,top

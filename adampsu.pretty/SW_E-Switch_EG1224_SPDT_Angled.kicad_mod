@@ -1,0 +1,346 @@
+(footprint "SW_E-Switch_EG1224_SPDT_Angled"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf")
+	(tags "switch SPDT")
+	(property "Reference" "SW1"
+		(at 4 -2.95 0)
+		(layer "F.SilkS")
+		(uuid "3493eeb5-9568-4d7e-81c6-bed913f667d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PwrOn"
+		(at 3.556 3.175 0)
+		(layer "F.Fab")
+		(uuid "b4ae878f-a1bd-46e5-ba2e-e84399356dea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "be8511f2-2eb7-47f1-80a8-4ce2886b0585")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7a4c7ee8-72c6-4eb2-b6ed-c0d70e4a7155")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Momentary Switch, single pole double throw"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "533313db-d95d-4ed4-8ac4-97dd33cce78f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.3 -3.05)
+		(end -2 -3.05)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27b2c2c4-ea41-4a9d-a817-92deafdffd0d")
+	)
+	(fp_line
+		(start -3.3 -1.75)
+		(end -3.3 -3.05)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fdac9a3f-2969-4791-a789-28ffea4dc42d")
+	)
+	(fp_line
+		(start -3 3.85)
+		(end -3 -1.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1661f6ba-6b88-4a31-9bc3-b372844e7dec")
+	)
+	(fp_line
+		(start -0.95 -2.1)
+		(end 13.716 -2.159)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "78bf59f0-dad2-4132-a930-dcde7ae21614")
+	)
+	(fp_line
+		(start 8.95 4.6)
+		(end -0.95 4.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4dfbe9a7-46fd-4e7b-88f4-cd5e25a123b4")
+	)
+	(fp_line
+		(start 13.716 -1.644)
+		(end 13.716 3.556)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "765424f3-8a75-4472-ab73-b662fdc19436")
+	)
+	(fp_line
+		(start -0.889 5.588)
+		(end 0.508 7.239)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "b71d00c7-e16e-4bf0-8c17-fa1b5334fd26")
+	)
+	(fp_line
+		(start 0.508 7.239)
+		(end 4.445 6.985)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "6412fc0d-9f13-4eab-8af0-b099cb38121f")
+	)
+	(fp_line
+		(start 4.445 6.985)
+		(end 7.874 5.461)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "c6eaa4e8-055c-44fc-9fa1-fb712daaf19b")
+	)
+	(fp_line
+		(start 7.874 5.461)
+		(end 8.89 5.461)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Margin")
+		(uuid "991a562f-6a9d-4593-8da9-39e4dc8519c8")
+	)
+	(fp_line
+		(start -3.25 -3)
+		(end 14.605 -2.921)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "81f09b74-a72b-4b9e-b249-86c27763e1d5")
+	)
+	(fp_line
+		(start -3.25 5.5)
+		(end -3.25 -3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "714a7e77-4c19-42cf-aab8-dd9d7db8cddc")
+	)
+	(fp_line
+		(start -0.75 5.5)
+		(end -3.25 5.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c5d20a94-a772-4d45-9c8c-d61a412924cb")
+	)
+	(fp_line
+		(start 14.478 5.207)
+		(end 8.75 5.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3f1c1265-6fff-47ee-ba2e-1387259a5407")
+	)
+	(fp_line
+		(start 14.605 -3)
+		(end 14.478 5.207)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "64f2ade9-aefe-4979-a377-5b29b4757669")
+	)
+	(fp_line
+		(start -2.9 4.5)
+		(end -2.9 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "892dd7b7-97df-4300-9329-fd40bc0141f7")
+	)
+	(fp_line
+		(start -1.9 -2)
+		(end -2.9 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1c4734fa-da1b-4aa8-aca2-6c2a164f02cb")
+	)
+	(fp_line
+		(start -1.9 -2)
+		(end 10.9 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "54b11076-9b7c-4b50-9e87-66318fcc0220")
+	)
+	(fp_line
+		(start 0.381 6.477)
+		(end -0.5 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e1cada6b-f145-4cca-adc7-993e85d91b54")
+	)
+	(fp_line
+		(start 3.429 6.477)
+		(end 0.381 6.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f5a9dc37-e492-47bd-afc0-d158cdb64481")
+	)
+	(fp_line
+		(start 4.5 4.5)
+		(end 3.429 6.477)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "304684a6-7c73-4faa-a4a7-b75d916536d4")
+	)
+	(fp_line
+		(start 13.589 4.572)
+		(end -2.9 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f91d0ccc-25b4-4193-af26-dbbbcacc8096")
+	)
+	(fp_line
+		(start 13.716 -2.032)
+		(end 13.716 4.468)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ade2759-6728-4d8d-b96c-5770011dd2dd")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 4 1.25 0)
+		(layer "F.Fab")
+		(uuid "722b5703-64b6-4232-8a07-a3fc24abbe45")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.5 2.5)
+		(drill 1.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9936251f-b0cc-4c47-a57f-1666b0acf88d")
+	)
+	(pad "2" thru_hole circle
+		(at 6 0)
+		(size 2.5 2.5)
+		(drill 1.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "86846e4d-892a-4762-9b0b-15def6f58773")
+	)
+	(pad "3" thru_hole circle
+		(at 12 0)
+		(size 2.5 2.5)
+		(drill 1.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4be6b836-5411-40a0-affc-1376defd28fc")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_E-Switch_EG1224_SPDT_Angled.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

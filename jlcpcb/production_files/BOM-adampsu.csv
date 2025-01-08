@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+10uf,C1,CP_Radial_D6.3mm_P2.50mm,
+L7905,U1,TO-220-3_Vertical,
+Barrel_Jack_Switch,J1,BarrelJack_Horizontal,
+D_Schottky,D1,D_DO-34_SOD68_P7.62mm_Horizontal,
+DB9_Female,J3,DSUB-9_Female_Vertical_P2.77x2.84mm_MountingHoles,
+ATX-20,J4,Molex_Mini-Fit_Jr_5569-20A2_2x10_P4.20mm_LargeHoles,
+TL2230EEF140,S1,SW_TL2230EEF140,
++5V/Orange,TP3,TestPoint_THTPad_3.0x3.0mm_Drill1.5mm,
++12VI/Red,TP2,TestPoint_THTPad_3.0x3.0mm_Drill1.5mm,
+-5V/Yellow,TP4,TestPoint_THTPad_3.0x3.0mm_Drill1.5mm,
+GND/Green,TP5,TestPoint_THTPad_3.0x3.0mm_Drill1.5mm,
++12VL/Brown,TP1,TestPoint_THTPad_3.0x3.0mm_Drill1.5mm,
